@@ -1,0 +1,55 @@
+Turtle Plus
+By jRdCool
+
+Turtle plus works in conjunction with turtle to simplyfi the creation of shapes useing one line of cod insted
+of 5 or more. It seeks to make turtle easer and less space consuming to use.
+
+Version 1.2.1
+
+To use: 
+	1: Place turtlePlus.py in the folder with your program.
+	2: Import into your porgram
+
+
+
+
+Functions and their purpose
+
+	    Function				    Use
+1  :	  functionList                  Lists Funcions in Turtle Plus
+2  :	  penJump		 	Jumps turtle without drawing a line
+3  :	  showLoc			Displays in the console where turtle is when run
+4  :	  move 				Lets you move turtle around the screen and record it's position to the console (from the move library by jSdCool)
+
+5  :	  drawFilledCircle		Draws a filled in circle 
+6  :	  fillSquare			Draws a filled in square
+7  :	  drawRandomFilledCircle	Draws a circle of random size in a random place
+8  :	  fillRandomPoly 		Draws a polygon with a random number of sides of equil lenght in a random position on the screen
+9  :	  hlfRec			Draws a rectangle that is exactly half as tall as it is wide
+10 : 	  rectangle			Draws a rectangle
+11 : 	  door				Draws a door
+12 :	  window 			Draws a Square widow
+13 :  	  isotri 			Draws an isoslies triangle
+14 :  	  triangle 			Draws a triangle with three virtices
+15 :	  equiTri 			Draws a equilaterial triangle
+
+
+Function peramiters
+
+	   Function				Peramiters
+1  :	  functionList			none
+2  :	  penJump			Target X position, Target Y position
+3  :	  showLoc			none
+4  :	  move				none
+
+5  :	  drawFilledCircle		Radius, Starting X position, Starting Y position, Color
+6  :	  fillSquare			Length of side, Starting X position, Starting Y position, Color
+7  :	  drawRandomFilledCircle	Color
+8  :	  fillRandomPoly		Color
+9  :	  hlfRec			Width, Color
+10 : 	  rectangle			Starting X position, Starting Y position, Height, Width, Color
+11 : 	  door				Starting X position, Starting Y position, Door color, Door Handel color
+12 :	  window			Starting X position, Starting Y position, Length of all sides, Frame color, Frame thickness
+13 :  	  isotri			Starting X position, Starting Y position, Base, Height,color
+14 :  	  triangle			X1,Y1,X2,Y2,X3,Y3,Color
+15 :	  equiTri			Starting X position, Starting Y position, Direction facing, Side Length, Color
